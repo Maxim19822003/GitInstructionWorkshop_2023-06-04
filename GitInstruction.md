@@ -11,6 +11,8 @@
 *git commit -m "yourcomment"* - commited your changes and add comment  
 
 *git log* - see log file git to your changes
+*git log --all*
+*git log --all --oneline*
 
 *git checkout* - switch in branch/version file
 
